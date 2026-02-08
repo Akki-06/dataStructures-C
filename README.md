@@ -9,18 +9,40 @@ The objective of this project is to build a strong foundation in data structures
 
 All programs are organized **topic-wise into dedicated directories** to ensure clarity, maintainability, and ease of navigation.
 
+Data-Structures-C-Sem2/
 ├── bst/
+│   └── bst_operations.c
+│
 ├── linked_list/
-│ ├── sll/
-│ ├── dll/
-│ └── cll/
+│   ├── sll/
+│   │   └── singly_linked_list.c
+│   ├── dll/
+│   │   └── doubly_linked_list.c
+│   └── cll/
+│       └── circular_linked_list.c
+│
 ├── stack/
+│   └── stack.c
+│
 ├── queue/
+│   └── queue.c
+│
 ├── sorting/
+│   └── sorting_algorithms.c
+│
 ├── searching/
+│   └── searching_algorithms.c
+│
 ├── matrices/
+│   └── matrix_operations.c
+│
 ├── polynomial/
+│   └── polynomial_operations.c
+│
 ├── string/
+│   └── string_operations.c
+│
+├── .gitignore
 └── README.md
 
 
