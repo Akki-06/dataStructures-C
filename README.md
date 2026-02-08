@@ -2,53 +2,11 @@
 
 This repository contains **concept-wise implementations of Data Structures using C**, developed as part of **BCA Semester II coursework**.  
 The objective of this project is to build a strong foundation in data structures through clean, modular, and well-organized C programs following standard coding and version-control practices.
-
 ---
-
-## 📌 Repository Structure
-
-All programs are organized **topic-wise into dedicated directories** to ensure clarity, maintainability, and ease of navigation.
-
-Data-Structures-C-Sem2/
-├── bst/
-│   └── bst_operations.c
-│
-├── linked_list/
-│   ├── sll/
-│   │   └── singly_linked_list.c
-│   ├── dll/
-│   │   └── doubly_linked_list.c
-│   └── cll/
-│       └── circular_linked_list.c
-│
-├── stack/
-│   └── stack.c
-│
-├── queue/
-│   └── queue.c
-│
-├── sorting/
-│   └── sorting_algorithms.c
-│
-├── searching/
-│   └── searching_algorithms.c
-│
-├── matrices/
-│   └── matrix_operations.c
-│
-├── polynomial/
-│   └── polynomial_operations.c
-│
-├── string/
-│   └── string_operations.c
-│
-├── .gitignore
-└── README.md
-
 
 Compiled files (`.o`, executables) are intentionally excluded to maintain a clean and professional repository.
 
----
+--- 
 
 ## 📚 Topics Covered
 
